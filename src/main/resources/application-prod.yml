@@ -1,0 +1,6 @@
+server:
+  port: 8081
+  context-path: /sbDemo
+girl:
+  cupSize: F
+  age: 29
